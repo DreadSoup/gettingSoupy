@@ -1,2 +1,2 @@
-# Getting-Soupy
+# gettingSoupy
 Getting started on GitHub
