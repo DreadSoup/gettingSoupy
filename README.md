@@ -1,4 +1,6 @@
 # gettingSoupy
 Getting started on GitHub
 
-lalala
+Stubs has entered the building
+
+youReadThis ? 'youAreRad' : 'whyNoRead' ;
